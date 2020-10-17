@@ -1,7 +1,7 @@
 "use strict";
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import {NavBarItem} from './components/navbar.js';
+import {NavBarItem} from './components/NavBarItem';
 
 const container = document.getElementById('react-app-container');
 function AccountLink(props) {
