@@ -1,2 +1,2 @@
 # My Website
-My website, written in [React.js](https://reactjs.org)
+My website, written in [React.js](https://reactjs.org).
